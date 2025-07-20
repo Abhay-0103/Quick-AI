@@ -4,6 +4,8 @@ Quick-AI is a modern **AI-powered SaaS application** built with the PERN stack, 
 
 ## Live Preview :- https://quick-ai-client-sable.vercel.app/
 
+---
+
 ## ✨ Features
 
 - **Multiple AI Utilities:**  
@@ -59,7 +61,3 @@ Quick-AI is a modern **AI-powered SaaS application** built with the PERN stack, 
 ## 🙌 Contributing
 
 Pull requests are welcome! For major changes, please open an issue first to discuss your ideas
-
----
-
-**Transform your workflow with Quick-AI. Build. Create. Innovate.**
