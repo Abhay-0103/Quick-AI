@@ -2,7 +2,7 @@
 
 Quick-AI is a modern **AI-powered SaaS application** built with the PERN stack, delivering powerful, production-ready AI tools through a sleek and scalable web platform. Unlock a new level of productivity with instant access to advanced AI solutions—secure, performant, and ready for real-world users.
 
-# Live Preview :- https://quick-ai-client-sable.vercel.app/
+# Live Preview :- https://quick-ai-tawny.vercel.app/
 
 
 
