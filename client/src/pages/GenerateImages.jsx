@@ -10,7 +10,7 @@ const GenerateImages = () => {
 
       const imageStyle = ['Realistic Style', 'Digital Style', 'Anime Style', 'Ghibli Style', 'Cyberpunk', 'Fantasy Style', 'Cartoon Style', '3D Style']
     
-      const [selectedStyle, setSelectedStyle] = useState('Anime')
+      const [selectedStyle, setSelectedStyle] = useState('Realistic Style')
       const [input, setInput] = useState('')
       const [publish, setPublish] = useState(false)
       const [loading, setLoading] = useState(false)
