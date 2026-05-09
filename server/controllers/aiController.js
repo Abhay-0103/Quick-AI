@@ -212,7 +212,7 @@ export const removeImageObject = async (req, res) => {
 
         const imageUrl = cloudinary.url(public_id, {
             transformation: [{
-                effect: `gen_remove: ${object}`
+                effect: `gen_remove:${object}`
             }],
             resource_type: 'image'
         })
