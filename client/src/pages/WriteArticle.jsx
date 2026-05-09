@@ -53,7 +53,7 @@ const WriteArticle = () => {
       >
         <div className="flex items-center gap-3">
           <Sparkles className="w-6 text-[#4A7AFF]" />
-          <h1 className="text-xl font-semibold">Article Configuration</h1>
+          <h1 className="text-xl font-semibold">Article Generator</h1>
         </div>
         <p className="mt-6 text-sm font-medium">Article Topic</p>
 
